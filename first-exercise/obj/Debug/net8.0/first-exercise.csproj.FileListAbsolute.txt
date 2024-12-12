@@ -1,0 +1,14 @@
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\bin\Debug\net8.0\first-exercise.exe
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\bin\Debug\net8.0\first-exercise.deps.json
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\bin\Debug\net8.0\first-exercise.runtimeconfig.json
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\bin\Debug\net8.0\first-exercise.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\bin\Debug\net8.0\first-exercise.pdb
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\first-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\first-exercise.AssemblyInfoInputs.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\first-exercise.AssemblyInfo.cs
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\first-exercise.csproj.CoreCompileInputs.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\first-exercise.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\refint\first-exercise.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\first-exercise.pdb
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\first-exercise.genruntimeconfig.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\first-exercise\obj\Debug\net8.0\ref\first-exercise.dll

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first-exercise", "first-exercise\first-exercise.csproj", "{89B6CDF2-5295-468E-92A9-626429BD4605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatName", "ConcatName\ConcatName.csproj", "{5071690B-1C18-4D40-B41B-4A02D1AC9334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{ED2A2D17-D322-498E-8887-EBFEABA3CF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\WordCount.csproj", "{FC3A228B-F071-4C07-B232-86E25DF0F58F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B6CDF2-5295-468E-92A9-626429BD4605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B6CDF2-5295-468E-92A9-626429BD4605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B6CDF2-5295-468E-92A9-626429BD4605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B6CDF2-5295-468E-92A9-626429BD4605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5071690B-1C18-4D40-B41B-4A02D1AC9334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5071690B-1C18-4D40-B41B-4A02D1AC9334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5071690B-1C18-4D40-B41B-4A02D1AC9334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5071690B-1C18-4D40-B41B-4A02D1AC9334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2A2D17-D322-498E-8887-EBFEABA3CF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2A2D17-D322-498E-8887-EBFEABA3CF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2A2D17-D322-498E-8887-EBFEABA3CF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2A2D17-D322-498E-8887-EBFEABA3CF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3A228B-F071-4C07-B232-86E25DF0F58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3A228B-F071-4C07-B232-86E25DF0F58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3A228B-F071-4C07-B232-86E25DF0F58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3A228B-F071-4C07-B232-86E25DF0F58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\bin\Debug\net8.0\ConcatName.exe
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\bin\Debug\net8.0\ConcatName.deps.json
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\bin\Debug\net8.0\ConcatName.runtimeconfig.json
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\bin\Debug\net8.0\ConcatName.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\bin\Debug\net8.0\ConcatName.pdb
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\ConcatName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\ConcatName.AssemblyInfoInputs.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\ConcatName.AssemblyInfo.cs
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\ConcatName.csproj.CoreCompileInputs.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\ConcatName.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\refint\ConcatName.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\ConcatName.pdb
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\ConcatName.genruntimeconfig.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\ConcatName\obj\Debug\net8.0\ref\ConcatName.dll

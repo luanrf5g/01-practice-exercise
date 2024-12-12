@@ -1,0 +1,14 @@
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\bin\Debug\net8.0\Calc.exe
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\bin\Debug\net8.0\Calc.deps.json
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\bin\Debug\net8.0\Calc.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\bin\Debug\net8.0\Calc.pdb
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\Calc.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\refint\Calc.dll
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\Calc.pdb
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+C:\Users\luanf\www\ignite\C#\01-practice-exercise\Calc\obj\Debug\net8.0\ref\Calc.dll
